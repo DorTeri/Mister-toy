@@ -1,0 +1,58 @@
+[
+  {
+    "_id": "u102",
+    "name": "Talking dollss",
+    "labels": [
+      "Doll",
+      "Puzzle"
+    ],
+    "url": "https://images.unsplash.com/photo-1612506001235-f0d0892aa11b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8ZG9sbHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+    "price": 160,
+    "inStock": true
+  },
+  {
+    "_id": "u103",
+    "name": "Buzz ToyStory",
+    "labels": [
+      "Doll",
+      "Battery powered"
+    ],
+    "url": "https://images.unsplash.com/photo-1581557991964-125469da3b8a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8dG95fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "price": 90,
+    "inStock": false
+  },
+  {
+    "_id": "u104",
+    "name": "4 cars",
+    "labels": [
+      "On wheels"
+    ],
+    "url": "https://images.unsplash.com/photo-1613536491198-a0afa1916b3b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8dG95JTIwY2FyfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "price": 190,
+    "inStock": true
+  },
+  {
+    "_id": "sPRon",
+    "name": "Dor teri",
+    "price": 70,
+    "url": "https://images.unsplash.com/photo-1545558014-8692077e9b5c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8dG95fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "labels": [
+      "Box game",
+      "Art"
+    ],
+    "inStock": true,
+    "createdAt": 1678778538244
+  },
+  {
+    "_id": "sFy5b",
+    "name": "My first random",
+    "price": 190,
+    "url": "https://images.unsplash.com/photo-1566576912321-d58ddd7a6088?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8dG95c3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+    "labels": [
+      "On wheels",
+      "Art"
+    ],
+    "inStock": true,
+    "createdAt": 1678779102077
+  }
+]
