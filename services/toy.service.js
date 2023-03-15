@@ -21,7 +21,7 @@ function query(filterBy) {
     filteredtoys = filteredtoys.filter(toy => toy.labels.some(label => labels.includes(label)))
   }
 
-  if (inStock) {
+  if (inStock === 'true') {
     filteredtoys = filteredtoys.filter(toy => toy.inStock)
   }
 

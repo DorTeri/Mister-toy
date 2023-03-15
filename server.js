@@ -34,7 +34,7 @@ app.get('/api/toy', (req, res) => {
         pageSize: filters.pageSize || 6,
         sortBy: filters.sortBy || {by: '' , desc: '1'}
     }
-
+    
     toyService
         .query(filterBy)
         .then(toys => res.send(toys))
